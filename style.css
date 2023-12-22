@@ -229,3 +229,20 @@ ul {
 .mainPage img {
   width: 200px;
 }
+
+/* custom */
+
+.card {
+  width: 500px;
+  padding: 0;
+  border-radius: 15px;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.card-body {
+  width: fit-content;
+}
